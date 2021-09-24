@@ -56,18 +56,18 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 1: car moves Forward
 car.moveForward();
 //  action 2: car ignition turns on
-car.ignitionOn();
+car.turnIgnitionOn();
 //  action 3: car headlights turn off
- car.headlightsOff();
+car.turnHeadlightsOff();
 
 //  2)
 //  Noun: ship
 //  action 1: ship sounds honk
 ship.honk();
 //  action 2: ship raises flag
-ship.flagRaise();
+ship.raiseFlag();
 //  action 3: ship takes anchor away
- ship.anchorAway();
+ship.takeAnchorAway();
 
 //  3)
 //  Noun: window
@@ -76,7 +76,7 @@ window.breaks();
 //  action 2: window goes dark
 window.goDark();
 //  action 3: window closes vertically
- window.closeVertically();
+window.closeVertically();
 
 //  4)
 //  Noun: chair
@@ -85,7 +85,7 @@ chair.holdTwoFeet();
 //  action 2: chair makes weird noises
 chair.makeNoise();
 //  action 3: chair falls backwards
- chair.backwardsFall();
+chair.fallsBackwards();
 
 //  5)
 //  Noun: hand
@@ -94,52 +94,52 @@ hand.turnsRed();
 //  action 2: hand dissapears
 hand.dissapears();
 //  action 3: hand makes fist
- hand.makesFist();
+hand.makesFist();
 
 //  6)
 //  Noun: keyboard
 //  action 1: keyboard LED lights on
-keyboard.lightOn();
+keyboard.turnsLightsOn();
 //  action 2: keyboard ESC key turns off
-keyboard.escOff();
+keyboard.turnsEscOff();
 //  action 3: keyboard touch turns ON
- keyboard.touchOn();
+keyboard.turnsTouchOn();
 
 //  7)
 //  Noun: guitar (Electric)
-//  action 1: guitar string vibrate fast
-guitar.stringVibrateFast();
-//  action 2: guitar volume knob turns off
-guitar.volKnobOff();
-//  action 3: guitar headstock breaks down
- guitar.headstockBreak();
+//  action 1: guitar color changes to red
+guitar.changeColorToRed();
+//  action 2: guitar play E chord
+guitar.playEChord();
+//  action 3: guitar play muted E Chord
+guitar.playMutedEChord();
 
 //  8)
 //  Noun: pen
-//  action 1: pen button stuck 
-pen.buttonStuck();
-//  action 2: pen edge replace to lazer
-pen.edgeTurnsLazer();
+//  action 1: pen make button stuck 
+pen.makeButtonStuck();
+//  action 2: pen add logo on top 
+pen.addLogoOnTop();
 //  action 3: pen color turns black
- pen.changeColorBlack();
+pen.changeColorBlack();
 
 //  9)
 //  Noun: speaker
 //  action 1: speaker power off
 speaker.powerOff();
 //  action 2: speaker change LED to blue
-speaker.ledColorBlue();
+speaker.changeLedColorBlue();
 //  action 3: speaker double its size
-speaker.sizeDouble();
+speaker.doubleInSize();
 
 //  10)
-//  Noun: headphones
-//  action 1: headphones right ear play bass only
-headphones.rightEarPlayBass();
-//  action 2: headphones volume turns to maximum
-headphones.volumeGoMax
-//  action 3: headphones noise reduction turns one
-headphones.noiseReductionOn
+//  Noun: glass
+//  action 1: glass fill half full
+glass.fillHalfFull();
+//  action 2: glass fill full
+glass.fillFull();
+//  action 3: glass warm to 60 degrees
+glass.warmToSixtyDegrees();
  
 
 
