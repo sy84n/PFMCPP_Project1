@@ -133,13 +133,13 @@ speaker.changesLedColorBlue();
 speaker.doublesInSize();
 
 //  10)
-//  Noun: glass
-//  action 1: glass fill half full
-glass.fillsHalfFull();
-//  action 2: glass fill full
-glass.fillsFull();
-//  action 3: glass warm to 60 degrees
-glass.warmsToSixtyDegrees();
+//  Noun: SwitchCase
+//  action 1: SwitchCase pull out case
+switchCase.PullOutCase();
+//  action 2: SwitchCase plug power cable
+SwitchCase.PlugPowerCable();
+//  action 3: switchCase press main functions button
+SwitchCase.PressMainFunctionsButton();
  
 
 
