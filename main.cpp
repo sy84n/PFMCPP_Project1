@@ -14,7 +14,7 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
     Choose nouns that do things.  
     avoid choosing nouns that have things done TO them.
     If your noun consists of multiple words, use camelCaseToNameIt.
- 
+
  2) for each of the 10 nouns, write out 3 actions it might perform, in plain english.
     a) AVOID state-checking actions, like "Car has a horn".  i.e.
         car.hasHorn()
@@ -52,84 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: car
+//  action 1: car moves Forward
+car.moveForward();
+//  action 2: car ignition turns on
+car.turnIgnitionOn();
+//  action 3: car headlights turn off
+car.turnHeadlightsOff();
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: ship
+//  action 1: ship sounds honk
+ship.honk();
+//  action 2: ship raises flag
+ship.raiseFlag();
+//  action 3: ship takes anchor away
+ship.takeAnchorAway();
 
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: window
+//  action 1: window breaks
+window.breaks();
+//  action 2: window goes dark
+window.goesDark();
+//  action 3: window closes vertically
+window.closeVertically();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: chair
+//  action 1: chair holds on two feet
+chair.holdsOnTwoFeet();
+//  action 2: chair makes weird noises
+chair.makesNoise();
+//  action 3: chair falls backwards
+chair.fallsBackwards();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: hand
+//  action 1: hand turns red
+hand.turnsRed();
+//  action 2: hand dissapears
+hand.dissapears();
+//  action 3: hand makes fist
+hand.makesFist();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: keyboard
+//  action 1: keyboard LED lights on
+keyboard.turnsLightsOn();
+//  action 2: keyboard ESC key turns off
+keyboard.turnsEscOff();
+//  action 3: keyboard touch turns ON
+keyboard.turnsTouchOn();
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: guitar (Electric)
+//  action 1: guitar color changes to red
+guitar.changesColorToRed();
+//  action 2: guitar play E chord
+guitar.playsEChord();
+//  action 3: guitar play muted E Chord
+guitar.playsMutedEChord();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: pen
+//  action 1: pen make button stuck 
+pen.makesButtonStuck();
+//  action 2: pen add logo on top 
+pen.addsLogoOnTop();
+//  action 3: pen color turns black
+pen.changesColorBlack();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: speaker
+//  action 1: speaker power off
+speaker.powersOff();
+//  action 2: speaker change LED to blue
+speaker.changesLedColorBlue();
+//  action 3: speaker double its size
+speaker.doublesInSize();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: SwitchCase
+//  action 1: SwitchCase pull out case
+switchCase.pullOutCase();
+//  action 2: SwitchCase plug power cable
+switchCase.plugPowerCable();
+//  action 3: switchCase press main functions button
+switchCase.pressMainFunctionsButton();
  
 
 
