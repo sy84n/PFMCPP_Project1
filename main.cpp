@@ -135,11 +135,11 @@ speaker.doublesInSize();
 //  10)
 //  Noun: SwitchCase
 //  action 1: SwitchCase pull out case
-switchCase.PullOutCase();
+switchCase.pullOutCase();
 //  action 2: SwitchCase plug power cable
-SwitchCase.PlugPowerCable();
+switchCase.plugPowerCable();
 //  action 3: switchCase press main functions button
-SwitchCase.PressMainFunctionsButton();
+switchCase.pressMainFunctionsButton();
  
 
 
